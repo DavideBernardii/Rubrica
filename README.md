@@ -1,2 +1,2 @@
 # Rubrica
-RubricaWPF che gestisce due file WPF
+L'obiettivo del programa è di creare una rubrica, con interfaccia WPF, divisa in due colonne con funzioni diverse; in una saranno presenti i vari contatti inseriti, in un file csv, mentre nell'altra le informazioni dei contatti.  Inizialmente abbiamo creato due classi "Persona" e "Contatto", poi abbiamo creato due file csv chiamati "Persone" e "Contatti", in cui, nel primo file, sono presenti il nome e cognome dei contatti, mentre nel secondo("Contatti") ci sono le informazioni più specifiche di ogni contatto(es. email, numero telefono...), infine bisogna creare due griglie per la visualizzazione dei due file .csv.
