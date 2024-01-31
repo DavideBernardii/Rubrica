@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "bernardi.davide.4i.rubricaWPF/1.0.0": {
+        "runtime": {
+          "bernardi.davide.4i.rubricaWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bernardi.davide.4i.rubricaWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
